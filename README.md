@@ -22,6 +22,22 @@
 <a href="https://instagram.com/webshihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webshihab" height="30" width="40" /></a>
 </p>
 
+## 👋 Hi, I'm Shihab
+
+🎯 I'm a passionate Full Stack Developer with 2+ years of hands-on experience specializing in the **MERN stack** (MongoDB, Express, React, Node.js), along with **Next.js**, **Prisma**, **MySQL**, and **PostgreSQL**.
+
+🚀 I build scalable web applications, deploy them on **Ubuntu VPS** using **Nginx**, and love solving complex problems with clean, maintainable code. I enjoy working with **Redux Toolkit**, **Socket.io**, and modern UI frameworks like **Tailwind CSS**, **ShadCN**, and **Bootstrap**.
+
+💼 Currently working at **eManager** as a MERN Stack Developer where I lead full-cycle development, from API integration to production deployment.
+
+🔧 Tools & Technologies:  
+`JavaScript` | `TypeScript` | `React` | `Next.js` | `Node.js` | `MongoDB` | `MySQL` | `Prisma` | `PostgreSQL` | `Redux` | `Firebase` | `Strapi` | `Tailwind CSS` | `VPS` | `Nginx`
+
+🌐 Check out my portfolio: [mernshihab.xyz](https://www.mernshihab.xyz)
+
+📫 Let's connect!  
+Feel free to reach out for collaboration, freelance opportunities, or just tech talk.
+
 **Technologies:**
 - JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap, Redux
 - Node, Express.JS, Nest.JS, Socket.io
