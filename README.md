@@ -14,7 +14,7 @@
 
 🌐 Check out my portfolio: [mernshihab.xyz](https://www.mernshihab.xyz)
 
-📫 Let's connect!
+📫 Let's connect!  
 Feel free to reach out for collaboration, freelance opportunities, or just tech talk.
 <p align="left">
 <a href="https://linkedin.com/in/mernshihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mernshihab" height="30" width="40" /></a>
