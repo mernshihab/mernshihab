@@ -22,13 +22,6 @@ Feel free to reach out for collaboration, freelance opportunities, or just tech 
 <a href="https://instagram.com/webshihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webshihab" height="30" width="40" /></a>
 </p>
 
-
-- 🛠️ All of my projects are available at [MERN Shihab](https://www.mernshihab.xyz/portfolio)
-
-- 📫 You can contact me at **shihab.merndeveloper@gmail.com**
-
-- 🌟 Know about my experiences [mernshihab.xyz](https://mernshihab.xyz/)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mernshihab&label=Profile%20views&color=0e75b6&style=flat" alt="mernshihab" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mernshihab&show_icons=true&locale=en&layout=compact" alt="mernshihab" /></p>
