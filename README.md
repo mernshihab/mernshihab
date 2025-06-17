@@ -23,7 +23,6 @@
 </p>
 
 **Technologies:**
-
 - JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap, Redux
 - Node, Express.JS, Nest.JS, Socket.io
 - MongoDB, MySQL, PostgreSQL, Prisma
