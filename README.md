@@ -9,17 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mernshihab&label=Profile%20views&color=0e75b6&style=flat" alt="mernshihab" /> </p>
 
-
-
-
-- 💬 I’m currently working on [Chatting App](https://chattingapp-mu.vercel.app/)
-
-- 🛠️ All of my projects are available at [github.com/mernshihab](github.com/mernshihab)
+- 🛠️ All of my projects are available at [MERN Shihab](https://www.mernshihab.xyz/portfolio)
 
 - 📫 You can contact me at **shihab.merndeveloper@gmail.com**
-- 
 
-- 🌟 Know about my experiences [Portfolio](https://portfolio-shihab.vercel.app/)
+- 🌟 Know about my experiences [Portfolio](https://mernshihab.xyz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
