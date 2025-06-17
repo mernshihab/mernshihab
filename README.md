@@ -1,9 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mernshihab&label=Profile%20views&color=0e75b6&style=flat" alt="mernshihab" /> </p>
-
-
 ## 👋 Hi, I'm Shihab
 
 🎯 I'm a passionate Full Stack Developer with 2+ years of hands-on experience specializing in the **MERN stack** (MongoDB, Express, React, Node.js), along with **Next.js**, **Prisma**, **MySQL**, and **PostgreSQL**.
@@ -33,5 +30,7 @@ Feel free to reach out for collaboration, freelance opportunities, or just tech 
 - 📫 You can contact me at **shihab.merndeveloper@gmail.com**
 
 - 🌟 Know about my experiences [mernshihab.xyz](https://mernshihab.xyz/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mernshihab&label=Profile%20views&color=0e75b6&style=flat" alt="mernshihab" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mernshihab&show_icons=true&locale=en&layout=compact" alt="mernshihab" /></p>
