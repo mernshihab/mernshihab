@@ -25,7 +25,7 @@
 **Technologies:**
 
 - JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap, Redux
-- Node, Express.JS, Nest.JS
+- Node, Express.JS, Nest.JS, Socket.io
 - MongoDB, MySQL, PostgreSQL, Prisma
 
 <h3 align="left">Languages and Tools:</h3>
