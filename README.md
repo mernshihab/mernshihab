@@ -13,7 +13,7 @@
 
 - 📫 You can contact me at **shihab.merndeveloper@gmail.com**
 
-- 🌟 Know about my experiences [Portfolio](https://mernshihab.xyz/)
+- 🌟 Know about my experiences [mernshihab.xyz](https://mernshihab.xyz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
