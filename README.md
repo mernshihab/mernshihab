@@ -3,7 +3,7 @@
 
 ## 👋 Hi, I'm Shihab
 
-🎯 I'm a passionate Full Stack Developer with 2+ years of hands-on experience specializing in the **MERN stack** (MongoDB, Express, React, Node.js), along with **Next.js**, **Prisma**, **MySQL**, and **PostgreSQL**.
+🎯 I'm a passionate Full Stack Developer from Bangladesh with 2+ years of hands-on experience specializing in the **MERN stack** (MongoDB, Express, React, Node.js), along with **Next.js**, **Prisma**, **MySQL**, and **PostgreSQL**.
 
 🚀 I build scalable web applications, deploy them on **Ubuntu VPS** using **Nginx**, and love solving complex problems with clean, maintainable code. I enjoy working with **Redux Toolkit**, **Socket.io**, and modern UI frameworks like **Tailwind CSS**, **ShadCN**, and **Bootstrap**.
 
