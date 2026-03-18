@@ -1,18 +1,13 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 👋 Hi, I'm Shihab
 
-🎯 I'm a passionate Full Stack Developer from Bangladesh with 2+ years of hands-on experience specializing in the **MERN stack** (MongoDB, Express, React, Node.js), along with **Next.js**, **Prisma**, **MySQL**, and **PostgreSQL**.
-
-🚀 I build scalable web applications, deploy them on **Ubuntu VPS** using **Nginx**, and love solving complex problems with clean, maintainable code. I enjoy working with **Redux Toolkit**, **Socket.io**, and modern UI frameworks like **Tailwind CSS**, **ShadCN**, and **Bootstrap**.
-
-💼 Currently working at **eManager** as a MERN Stack Developer where I lead full-cycle development, from API integration to production deployment.
+Full Stack Developer with 3+ years of experience building and scaling web and mobile applications. Strong in JavaScript/TypeScript ecosystems with hands-on work across React/Next.js, Node.js/Express/NestJS, and SQL/NoSQL databases (MySQL, PostgreSQL, MongoDB). Experienced in performance optimization, UI/UX improvements, bug fixing, and deploying/maintaining production apps on Ubuntu VPS using Nginx and PM2. Delivered enterprise-grade solutions including eCommerce, CRM, multi-tenant platforms, and real-time chat systems with secure authentication and notifications.
 
 🔧 Tools & Technologies:  
-`JavaScript` | `TypeScript` | `React` | `Next.js` | `Node.js` | `MongoDB` | `MySQL` | `Prisma` | `PostgreSQL` | `Redux` | `Firebase` | `Strapi` | `Tailwind CSS` | `VPS` | `Nginx`
+`JavaScript` | `TypeScript` | `React` | `Next.js` | `Jquery` | `Tailwind` | `Bootstrap` | `Redux` | `Zustand` | `Nodejs` | `ExpressJs` | `NestJS` | `Socket IO` | `JWT` | `MongoDB` | `MySQL` | `PostgreSQL` | `Prisma ORM` | `Git` | `NginX`
 
-🌐 Check out my portfolio: [mernshihab.xyz](https://www.mernshihab.xyz)
+🌐 Check out my portfolio: [devshihab.com](https://www.devshihab.com)
 
 📫 Let's connect!  
 Feel free to reach out for collaboration, freelance opportunities, or just tech talk.
